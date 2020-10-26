@@ -19,4 +19,21 @@ Our modelling efforts this year were directed towards understanding the dynamics
 
 ### Bacteria population model
 
-When your project involves establishing bacterial biofilms in the field conditions with no option for future monitoring, it is important to predict what happens to it throughout the season. With this model we look at factors like water activity, temperature, and intraspecific competition that have a potential to affect the growth and maintenance of the **RootPatch** biofilm. This model allows you to visualize 
+When your project involves establishing bacterial biofilms in the field conditions with no option for future monitoring, it is important to predict what happens to it throughout the season. With this model we look at factors like water activity, temperature, and intraspecific competition that have a potential to affect the growth and maintenance of the **RootPatch** biofilm. This model allows you to visualize how the density of your bacteria changes throughout the season but also how various factors affect the final bacterial density. 
+
+### Nematode population model
+
+Understanding the seasonal dynamics of _G. pallida_ populations was crucial to us to implement the impact of **RootPatch** into the system. The model was built up from an existing data, and standard values were taken where the experimental ones were not available. This model can be used by plant experts and people interested in ecology to predict the spread and the damage of a particular biological pest. 
+
+### Software 
+
+Our models were developed either with Mathematica (Bacterial model) or with Python (Nematode model). 
+
+## Attributions
+
+We give our special thanks to the people who helped us develop these models with their professional expertise and support:
+
+Sander van Doorn (University of Groningen, the Netherlands)
+Matthew Biggs (AgBiome, the US)
+
+**We hope that our work will help someone in the future. Enjoy! **
