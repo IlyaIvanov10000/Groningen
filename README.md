@@ -13,7 +13,7 @@ Potatoes are beloved in the Netherlands, being part of many national dishes. Mor
 
 ## Modelling approach
 
-**HERE GOES THE OVERVIEW FIGURE**
+![alt text](https://github.com/igemsoftware2020/Groningen/blob/main/Model_overview.png)
 
 Our modelling efforts this year were directed towards understanding the dynamics of the nematode populations and their effect on the plant, growth and robustness of _B. mycoides_ biofilm, and the ability of RootPatch to effectively protect the plant. We reason that the best way to describe such systems is with ordinary differential equations (ODEs). Our models take great care in simulating the environmental factors to make the most accurate predictions based on the different enviornmental scenarios. They will be useful for people who want to predict the impact of various soil pests on the health of a plant or for the microbiologists who wish to study the biofilm growth. 
 
