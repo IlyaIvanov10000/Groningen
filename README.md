@@ -1,9 +1,11 @@
-# Groningen
+![alt text](https://github.com/igemsoftware2020/Groningen/blob/main/RootPatch_icon.png)
+
+# iGEM-Groningen
 The population dynamics models focusing on the Globodera pallida nematode and the (RootPatch) bacterial population on the roots. 
 
 ## RootPatch - What is it?
 
-**RootPatch** is an innovative technology developed by iGEM-Groningen to protect the potato plants from the _Globodera pallida_ nematodes. **RootPatch** is an easy-to-use, targeted, and environmentally friendly product for crop protection in agriculture. It is a bacterial (_Bacillus mycoides_) community that forms a biofilm-like structure on the surface of potato roots. The bacteria will produce and secrete NLP-14a, a neuropeptide-like protein, native to _G. pallida_. After taking up NLP-14a, it will reverse the chemoattraction of the nematodes to the roots,repelling the harmful parasites away from the plant. 
+**RootPatch** is an innovative technology developed by iGEM-Groningen to protect the potato plants from the _Globodera pallida_ nematodes. **RootPatch** is an easy-to-use, targeted, and environmentally friendly product for crop protection in agriculture. It is a bacterial (_Bacillus mycoides_) community that forms a biofilm-like structure on the surface of potato roots. The bacteria will produce and secrete NLP-14a, a neuropeptide-like protein, native to _G. pallida_. After taking up NLP-14a, it will reverse the chemoattraction of the nematodes to the roots, repelling the harmful parasites away from the plant. 
 
 ## RootPatch - Motivation
 
@@ -11,4 +13,10 @@ Potatoes are beloved in the Netherlands, being part of many national dishes. Mor
 
 ## Modelling approach
 
-Our modelling efforts this year were directed towards understanding the dynamics of the nematode populations, their effect on the plant, 
+**HERE GOES THE OVERVIEW FIGURE**
+
+Our modelling efforts this year were directed towards understanding the dynamics of the nematode populations and their effect on the plant, growth and robustness of _B. mycoides_ biofilm, and the ability of RootPatch to effectively protect the plant. We reason that the best way to describe such systems is with ordinary differential equations (ODEs). Our models take great care in simulating the environmental factors to make the most accurate predictions based on the different enviornmental scenarios. They will be useful for people who want to predict the impact of various soil pests on the health of a plant or for the microbiologists who wish to study the biofilm growth. 
+
+### Bacteria population model
+
+When your project involves establishing bacterial biofilms in the field conditions with no option for future monitoring, it is important to predict what happens to it throughout the season. With this model we look at factors like water activity, temperature, and intraspecific competition that have a potential to affect the growth and maintenance of the **RootPatch** biofilm. This model allows you to visualize 
