@@ -41,6 +41,8 @@ A basic example is:
 
 This example returns a list of the final/initial egg density ratios of the population model with all standard parameter values and a sandy soil. The initial densities are 0, 1, 2... up to 50.
 
+## Advanced use
+
 ### Function #4: test_parameter_influence
 
 This function repeatedly runs the population model while varying the value of one of the parameters. This can be used to investigate the sensitivity of the nematode population dynamics to these parameters. The parameter will be varied within a range and with a step size specified by the user. The output is two lists: one of the values of the parameter you varied, and one of the final egg density or damage inflicted on the roots for the given parameter value.
