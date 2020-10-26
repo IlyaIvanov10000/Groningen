@@ -1,2 +1,3 @@
 # Groningen
-The population dynamics models focusing on the Globodera pallida nematode and the bacterial biofilm on the roots. 
+The population dynamics models focusing on the Globodera pallida nematode and the (RootPatch) bacterial population on the roots. 
+
