@@ -1,5 +1,4 @@
 # Groningen
-![alt text](https://github.com/igemsoftware2020/Groningen/blob/main/RootPatch_icon.png)
 The population dynamics models focusing on the Globodera pallida nematode and the (RootPatch) bacterial population on the roots. 
 
 ## RootPatch - What is it?
