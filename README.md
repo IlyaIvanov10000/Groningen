@@ -33,7 +33,9 @@ Our models were developed either with Mathematica (Bacterial model) or with Pyth
 
 We give our special thanks to the people who helped us develop these models with their professional expertise and support:
 
+
 Sander van Doorn (University of Groningen, the Netherlands)
+
 Matthew Biggs (AgBiome, the US)
 
 
