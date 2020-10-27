@@ -8,7 +8,7 @@ The model contains three files. Prior to working with them you need to download 
 
 ### File #1. Population_Manipulation_And_Bifurcation
 
-Contains the overall bacterial population plots, where the bacterial density can be plotted over time throughout the season. This file also contains the manipulate plots, which could be used to see the impact of changing a certain parameter on the bacterial density course. 
+Contains the overall bacterial population plots, where the bacterial density can be plotted over time throughout the season. This file also contains the manipulate plots, which could be used to see the impact of changing a certain parameter on the bacterial density course. The biggest part of this file are the bifurcation plots for each parameter. The Bifurcation plots shows the population of the bacteria after 150 days, when changing one parameter (x-axis).
 
 ### File #2. Different_Initial_Population 
 
