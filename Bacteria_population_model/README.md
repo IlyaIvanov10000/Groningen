@@ -6,16 +6,16 @@ This code is used for the analysis of the population dynamics of the **RootPatch
 
 The model contains three files. Prior to working with them you need to download the Mathematica package. The files should be opened with Mathematica. Use "Shift-Enter" to run the code, start with running the Quit[] to clear the previous calculations.
 
-### The first file: RootPatch_Bacteria_Bifurcation_Population
+### File #1. Bifurcation_Population
 
 Contains the overall bacterial population plots, where the bacterial density can be plotted over time throughout the season. This file also contains the manipulate plots, which could be used to see the impact of changing a certain parameter on the bacterial density course. 
 
-### the second file: RootPatch_Bacteria_Initial_Population 
+### File #2. Initial_Population 
 
-Contains the code used to analyze the effect of starting with a different of bacteria in the soil.
+Contains the code that can be used to effect of changing the starting bacterial density upon application to the soil on the fluctuations of the bacterial density throughout the season. 
 
-### The third file: RootPatch_Bacterial_Sensitivity_Parameters 
+### File #3. Sensitivity_Parameters 
 
-Contains the code used for the sensitivity analysis, the sensitivity analysis was with a 2% change in parameter value.
+Contains the code used for the sensitivity analysis. Sensitivity analysis evaluates to what extent can a change in a parameter (e.g., 2%) affect the end population of GM _B. mycoides_.
 
 Author: Ronja Hulst
